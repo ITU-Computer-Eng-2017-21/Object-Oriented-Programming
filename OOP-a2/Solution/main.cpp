@@ -1,4 +1,13 @@
+/* @Author
+Student Name: Baris Incesu
+Student ID: 150170092
+Date: 3.05.2020 */
+#include <string>
 #include <iostream>
+#include "Person.h"
+#include "Owner.h"
+#include "Courier.h"
+#include "Business.h"
 
 int main(){
     // Create owners of the business
