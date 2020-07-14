@@ -4,3 +4,9 @@
 
 using namespace std;
 
+animal::animal(){
+	
+}
+animal::~animal(){
+	
+}
