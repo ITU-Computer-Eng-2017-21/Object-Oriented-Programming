@@ -10,3 +10,8 @@ animal::animal(){
 animal::~animal(){
 	
 }
+
+void animal::setName(string newname)
+{
+    name = newname;
+}
