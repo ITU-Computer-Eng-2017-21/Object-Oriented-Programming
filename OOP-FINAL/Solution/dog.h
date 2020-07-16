@@ -4,8 +4,9 @@
 
 class dog: public animal
 {
+public:
 	void outputvoice(); //pure virtual method
 	
 	dog();
 	~dog();
-}
+};

@@ -3,7 +3,7 @@
 using namespace std;
 
 void cat::outputvoice(){
-	cout << "meow meow" << endl;
+	setName("meow meow");
 }
 
 cat::cat(){

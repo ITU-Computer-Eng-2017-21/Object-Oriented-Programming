@@ -3,7 +3,7 @@
 using namespace std;
 
 void dog::outputvoice(){
-	cout << "bark bark" << endl;
+	setName("bark bark");
 }
 
 dog::dog(){
