@@ -81,3 +81,9 @@ myDynamicArray<type>::~myDynamicArray()
     delete[] DynamicArray;
     cout << "a dynamic array has been destroyed" << endl;
 }
+
+template <class type>
+void myDynamicArray<type>::print()
+{
+    
+}

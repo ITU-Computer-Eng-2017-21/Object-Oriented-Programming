@@ -18,4 +18,5 @@ public:
 
     void add( type );
     type remove();
+    void print();
 };
